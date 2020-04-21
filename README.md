@@ -1,5 +1,5 @@
 
-        # **README GENERATOR - Week 9 Homework**
+        # README GENERATOR - Week 9 Homework
 
         # Title of Project
         week 9 Homework README Generator
